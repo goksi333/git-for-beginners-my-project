@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Goksi
+Author: Goksis
 Twitter: @goksijohnes
